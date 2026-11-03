@@ -1,28 +1,28 @@
 <!--
-  Agrici Daniel (AgriciDaniel): AI marketing systems architect and open-source creator.
+  Imam Haider (darimamhaider): AI marketing systems architect and open-source creator.
   Open-source Claude Code skills and Claude Code plugins: AI SEO tools, GEO, Google Ads and Meta ads audits, an AI blog writer and an AI second brain.
-  Website: https://agricidaniel.com
-  YouTube: https://www.youtube.com/@AgriciDaniel
-  LinkedIn: https://linkedin.com/in/daniel-agrici
+  Website: https://github.com/darimamhaider
+  YouTube: https://www.youtube.com/@darimamhaider
+  LinkedIn: https://linkedin.com/in/darimamhaider
 -->
 
 <details>
-<summary><a name="hero"><img src="./assets/hero.svg" width="1200" height="540" alt="Agrici Daniel, maker of claude-seo and claude-ads: open-source Claude Code skills for AI SEO, Google Ads and Meta ads. Join AI Marketing Hub Pro on Skool. Click to light the bonfire." /></a></summary>
+<summary><a name="hero"><img src="./assets/hero.svg" width="1200" height="540" alt="Imam Haider, maker of claude-seo and claude-ads: open-source Claude Code skills for AI SEO, Google Ads and Meta ads. Join AI Marketing Hub Pro on Skool. Click to light the bonfire." /></a></summary>
 <br />
 <img src="./assets/bonfire-lit.svg" width="1200" height="420" alt="Bonfire lit. Progress saved." />
 
 **Bonfire menu**
 
 - **Level up**: join <a href="https://www.skool.com/ai-marketing-hub-pro">AI Marketing Hub Pro</a>, 40+ AI workflows, 30+ AI SEO and marketing tools and live calls
-- **Attune skills**: install <a href="https://github.com/AgriciDaniel/claude-seo">claude-seo</a>, <a href="https://github.com/AgriciDaniel/claude-ads">claude-ads</a> or <a href="https://github.com/AgriciDaniel/claude-blog">claude-blog</a>
-- **Travel**: <a href="https://www.youtube.com/@AgriciDaniel">YouTube</a> or <a href="https://agricidaniel.com">agricidaniel.com</a>
+- **Attune skills**: install <a href="https://github.com/darimamhaider/claude-seo">claude-seo</a>, <a href="https://github.com/darimamhaider/claude-ads">claude-ads</a> or <a href="https://github.com/darimamhaider/claude-blog">claude-blog</a>
+- **Travel**: <a href="https://www.youtube.com/@darimamhaider">YouTube</a> or <a href="https://github.com/darimamhaider">darimamhaider</a>
 - **Kindle**: star a repo you use, it keeps the fire going
 
 <a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Join AI Marketing Hub Pro on Skool" /></a>
 </details>
 
 <p align="center">
-  <b>Agrici Daniel</b> builds open-source <b>Claude Code skills</b> and Claude Code plugins for AI SEO, Google Ads, Meta ads and content.<br />
+  <b>Imam Haider</b> builds open-source <b>Claude Code skills</b> and Claude Code plugins for AI SEO, Google Ads, Meta ads and content.<br />
   Maker of claude-seo, claude-ads, claude-blog and claude-obsidian. 50K+ GitHub stars. Free and MIT licensed.
 </p>
 
@@ -44,7 +44,7 @@ They cover technical SEO, local SEO, keyword research, generative engine optimiz
 
 **claude-seo**, **claude-ads** and **claude-blog** are among the most-starred Claude Code skills on GitHub. I also run the free [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) on Skool (5,900+ members) and [AI Marketing Hub Pro](https://www.skool.com/ai-marketing-hub-pro), where we build AI marketing workflows together.
 
-New to it? Start with my [Claude Code tutorial videos on YouTube](https://www.youtube.com/@AgriciDaniel).
+New to it? Start with my [Claude Code tutorial videos on YouTube](https://www.youtube.com/@darimamhaider).
 
 ## <a name="h-skills"><img src="./assets/h-skills.svg" width="30" height="30" alt="" /></a> Claude Code Skills: Choose Your Class
 
@@ -53,22 +53,22 @@ Pick the one that sounds like you. Each class comes with its skill.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/AgriciDaniel/claude-seo"><img src="./assets/card-claude-seo.svg" width="600" height="210" alt="claude-seo, the Claude Code SEO skill and AI SEO tool" /></a>
-      <p><b><a href="https://github.com/AgriciDaniel/claude-seo">claude-seo</a></b>: AI SEO for Claude Code: technical audits, schema, E-E-A-T, local SEO and GEO for AI search.</p>
+      <a href="https://github.com/darimamhaider/claude-seo"><img src="./assets/card-claude-seo.svg" width="600" height="210" alt="claude-seo, the Claude Code SEO skill and AI SEO tool" /></a>
+      <p><b><a href="https://github.com/darimamhaider/claude-seo">claude-seo</a></b>: AI SEO for Claude Code: technical audits, schema, E-E-A-T, local SEO and GEO for AI search.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/AgriciDaniel/claude-ads"><img src="./assets/card-claude-ads.svg" width="600" height="210" alt="claude-ads, the Claude Code skill for Google Ads and Meta ads audits" /></a>
-      <p><b><a href="https://github.com/AgriciDaniel/claude-ads">claude-ads</a></b>: Google Ads and Meta ads audits across 12 ad platforms, with scored reports.</p>
+      <a href="https://github.com/darimamhaider/claude-ads"><img src="./assets/card-claude-ads.svg" width="600" height="210" alt="claude-ads, the Claude Code skill for Google Ads and Meta ads audits" /></a>
+      <p><b><a href="https://github.com/darimamhaider/claude-ads">claude-ads</a></b>: Google Ads and Meta ads audits across 12 ad platforms, with scored reports.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/AgriciDaniel/claude-blog"><img src="./assets/card-claude-blog.svg" width="600" height="210" alt="claude-blog, the AI blog writer for Claude Code" /></a>
-      <p><b><a href="https://github.com/AgriciDaniel/claude-blog">claude-blog</a></b>: AI blog writer that ranks on Google and gets cited in AI search.</p>
+      <a href="https://github.com/darimamhaider/claude-blog"><img src="./assets/card-claude-blog.svg" width="600" height="210" alt="claude-blog, the AI blog writer for Claude Code" /></a>
+      <p><b><a href="https://github.com/darimamhaider/claude-blog">claude-blog</a></b>: AI blog writer that ranks on Google and gets cited in AI search.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/AgriciDaniel/claude-obsidian"><img src="./assets/card-claude-obsidian.svg" width="600" height="210" alt="claude-obsidian, an AI second brain for Obsidian and Claude Code" /></a>
-      <p><b><a href="https://github.com/AgriciDaniel/claude-obsidian">claude-obsidian</a></b>: AI second brain for Obsidian. Drop in any source, Claude links and files it.</p>
+      <a href="https://github.com/darimamhaider/claude-obsidian"><img src="./assets/card-claude-obsidian.svg" width="600" height="210" alt="claude-obsidian, an AI second brain for Obsidian and Claude Code" /></a>
+      <p><b><a href="https://github.com/darimamhaider/claude-obsidian">claude-obsidian</a></b>: AI second brain for Obsidian. Drop in any source, Claude links and files it.</p>
     </td>
   </tr>
 </table>
@@ -78,15 +78,15 @@ Pick the one that sounds like you. Each class comes with its skill.
 <br />
 <img src="./assets/loot-open.svg" width="1200" height="350" alt="Items found: 9 more open-source AI marketing tools" />
 
-- **[banana-claude](https://github.com/AgriciDaniel/banana-claude)**: AI image generation skill for Claude Code, powered by Gemini.
-- **[compass](https://github.com/AgriciDaniel/compass)**: Run your whole life out of Obsidian. Daily questions, planning, habits, tasks and an AI assistant in the vault.
-- **[jev-seo](https://github.com/AgriciDaniel/jev-seo)**: Live SEO audit for any website from one homepage URL. PDF, XLSX and Markdown reports.
-- **[claude-youtube](https://github.com/AgriciDaniel/claude-youtube)**: YouTube skill for Claude Code. Channel audits, video SEO, retention scripts, thumbnails and Shorts.
-- **[youtubepro](https://github.com/AgriciDaniel/youtubepro)**: Local-first YouTube research, script writing and thumbnail creation.
-- **[on-page-seo](https://github.com/AgriciDaniel/on-page-seo)**: On-page SEO analyzer for any website.
-- **[keywordpro](https://github.com/AgriciDaniel/keywordpro)**: Local-first keyword research tool with guided reports, charts and exports.
-- **[claude-cybersecurity](https://github.com/AgriciDaniel/claude-cybersecurity)**: Security code review skill for Claude Code. 8 specialist agents, OWASP, CWE Top 25 and MITRE ATT&CK.
-- **[claude-shorts](https://github.com/AgriciDaniel/claude-shorts)**: Turns long videos into Shorts with animated captions, inside Claude Code.
+- **[banana-claude](https://github.com/darimamhaider/banana-claude)**: AI image generation skill for Claude Code, powered by Gemini.
+- **[compass](https://github.com/darimamhaider/compass)**: Run your whole life out of Obsidian. Daily questions, planning, habits, tasks and an AI assistant in the vault.
+- **[jev-seo](https://github.com/darimamhaider/jev-seo)**: Live SEO audit for any website from one homepage URL. PDF, XLSX and Markdown reports.
+- **[claude-youtube](https://github.com/darimamhaider/claude-youtube)**: YouTube skill for Claude Code. Channel audits, video SEO, retention scripts, thumbnails and Shorts.
+- **[youtubepro](https://github.com/darimamhaider/youtubepro)**: Local-first YouTube research, script writing and thumbnail creation.
+- **[on-page-seo](https://github.com/darimamhaider/on-page-seo)**: On-page SEO analyzer for any website.
+- **[keywordpro](https://github.com/darimamhaider/keywordpro)**: Local-first keyword research tool with guided reports, charts and exports.
+- **[claude-cybersecurity](https://github.com/darimamhaider/claude-cybersecurity)**: Security code review skill for Claude Code. 8 specialist agents, OWASP, CWE Top 25 and MITRE ATT&CK.
+- **[claude-shorts](https://github.com/darimamhaider/claude-shorts)**: Turns long videos into Shorts with animated captions, inside Claude Code.
 
 </details>
 
@@ -107,9 +107,9 @@ Pick the one that sounds like you. Each class comes with its skill.
 ## <a name="h-faq"><img src="./assets/h-faq.svg" width="30" height="30" alt="" /></a> FAQ
 
 <details>
-<summary><b>Who is Agrici Daniel?</b></summary>
+<summary><b>Who is Imam Haider?</b></summary>
 <br />
-An AI marketing systems architect who builds free, open-source Claude Code skills: claude-seo, claude-ads, claude-blog and claude-obsidian. He runs the free <a href="https://www.skool.com/ai-marketing-hub">AI Marketing Hub</a> and <a href="https://www.skool.com/ai-marketing-hub-pro">AI Marketing Hub Pro</a> on Skool, and teaches Claude Code on <a href="https://www.youtube.com/@AgriciDaniel">YouTube</a>. Website: <a href="https://agricidaniel.com">agricidaniel.com</a>.
+An AI marketing systems architect who builds free, open-source Claude Code skills: claude-seo, claude-ads, claude-blog and claude-obsidian. He runs the free <a href="https://www.skool.com/ai-marketing-hub">AI Marketing Hub</a> and <a href="https://www.skool.com/ai-marketing-hub-pro">AI Marketing Hub Pro</a> on Skool, and teaches Claude Code on <a href="https://www.youtube.com/@darimamhaider">YouTube</a>. Website: <a href="https://github.com/darimamhaider">darimamhaider</a>.
 </details>
 
 <details>
@@ -145,7 +145,7 @@ Install claude-seo and run <code>/seo audit</code> on your site. It checks techn
 <details>
 <summary><b>Where can I learn Claude Code?</b></summary>
 <br />
-Step-by-step <a href="https://www.youtube.com/@AgriciDaniel">Claude Code tutorial videos</a> on YouTube, and questions answered in the free <a href="https://www.skool.com/ai-marketing-hub">AI Marketing Hub</a> community on Skool.
+Step-by-step <a href="https://www.youtube.com/@darimamhaider">Claude Code tutorial videos</a> on YouTube, and questions answered in the free <a href="https://www.skool.com/ai-marketing-hub">AI Marketing Hub</a> community on Skool.
 </details>
 
 ## <a name="h-stack"><img src="./assets/h-stack.svg" width="30" height="30" alt="" /></a> Tech Stack
@@ -155,9 +155,9 @@ Step-by-step <a href="https://www.youtube.com/@AgriciDaniel">Claude Code tutoria
 ## <a name="h-connect"><img src="./assets/h-connect.svg" width="30" height="30" alt="" /></a> Connect
 
 <p align="center">
-  <a href="https://agricidaniel.com"><img src="./assets/btn-website.svg" width="160" height="52" alt="agricidaniel.com, Agrici Daniel's website and blog" /></a>
-  <a href="https://linkedin.com/in/daniel-agrici"><img src="./assets/btn-linkedin.svg" width="163" height="52" alt="Agrici Daniel on LinkedIn" /></a>
-  <a href="https://www.youtube.com/@AgriciDaniel"><img src="./assets/btn-youtube.svg" width="162" height="52" alt="Claude Code tutorial videos on YouTube, @AgriciDaniel" /></a>
+  <a href="https://github.com/darimamhaider"><img src="./assets/btn-website.svg" width="160" height="52" alt="darimamhaider GitHub" /></a>
+  <a href="https://linkedin.com/in/darimamhaider"><img src="./assets/btn-linkedin.svg" width="163" height="52" alt="Imam Haider on LinkedIn" /></a>
+  <a href="https://www.youtube.com/@darimamhaider"><img src="./assets/btn-youtube.svg" width="162" height="52" alt="Claude Code tutorial videos on YouTube, @darimamhaider" /></a>
   <a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/btn-hub.svg" width="248" height="52" alt="AI Marketing Hub, free AI marketing community on Skool" /></a>
   <a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Join AI Marketing Hub Pro on Skool" /></a>
 </p>
